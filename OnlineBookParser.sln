@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35118.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineBookParser", "OnlineBookParser\OnlineBookParser.csproj", "{0962C80E-8578-4F1B-B2DC-F6501C25CB02}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BookInformationDB", "BookInformationDB\BookInformationDB.sqlproj", "{EEABA4B8-CBC1-43B9-90BB-B138E23DB8AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0962C80E-8578-4F1B-B2DC-F6501C25CB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0962C80E-8578-4F1B-B2DC-F6501C25CB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0962C80E-8578-4F1B-B2DC-F6501C25CB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0962C80E-8578-4F1B-B2DC-F6501C25CB02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEABA4B8-CBC1-43B9-90BB-B138E23DB8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEABA4B8-CBC1-43B9-90BB-B138E23DB8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEABA4B8-CBC1-43B9-90BB-B138E23DB8AA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EEABA4B8-CBC1-43B9-90BB-B138E23DB8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEABA4B8-CBC1-43B9-90BB-B138E23DB8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEABA4B8-CBC1-43B9-90BB-B138E23DB8AA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04FADB43-A918-4278-B2CF-7B2F891835FF}
+	EndGlobalSection
+EndGlobal
